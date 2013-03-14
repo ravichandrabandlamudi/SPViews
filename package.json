@@ -1,5 +1,5 @@
 {
-  "name": "SPViews",
+  "name": "sp_views",
   "version": "0.0.1",
   "description": "SP Views project",
   "author": {
@@ -16,6 +16,6 @@
     "jade": "*"
   },
   "license": "BSD",
-  "_id": "SPViews@0.0.1",
+  "_id": "sp_views@0.0.1",
   "readme": "ERROR: No README.md file found!"
 }
