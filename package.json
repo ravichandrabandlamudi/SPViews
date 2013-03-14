@@ -1,9 +1,15 @@
 {
-  "name": "application-name",
+  "name": "SPViews",
   "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "start": "node app"
+  "description": "SP Views project",
+  "author": {
+      "name": "Ravi Chandra Bandlamudi",
+      "email": "ravichandra.bandlamudi@gmail.com"
+  },
+  "main": "routes/file1.js",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/ravichandrabandlamudi/SPViews.git"
   },
   "dependencies": {
     "express": "3.1.0",
