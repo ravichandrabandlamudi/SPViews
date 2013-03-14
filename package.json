@@ -15,4 +15,7 @@
     "express": "3.1.0",
     "jade": "*"
   }
+  "license": "BSD",
+  "_id": "SPViews@0.0.1",
+  "readme": "ERROR: No README.md file found!"
 }
